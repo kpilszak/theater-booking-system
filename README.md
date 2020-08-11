@@ -13,7 +13,7 @@ The seats' cost depends on the row and number of the seat.
 
 ## Technologies
 Project is created with:
-* Kotlin (Java 8)
+* Kotlin (Java 8)  
 IDE: Intellij IDEA 2018
 
 ## Setup
