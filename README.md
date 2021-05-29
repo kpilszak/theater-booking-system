@@ -8,7 +8,7 @@
 
 ## General info
 This project is a Kotlin application.  
-The main purpose is to create booking system for theater.  
+The main purpose is to create a booking system for theater.  
 The seats' cost depends on the row and number of the seat.
 
 ## Technologies
